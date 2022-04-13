@@ -1,4 +1,4 @@
-# Exercise-06a-Blender
+# Exercise-06a-Create-a-Model
 
 Exercise for MSCH-C220
 
